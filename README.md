@@ -19,4 +19,10 @@
     - Smart Blind Stick for Visually Impaired using Arduino
     - Smart Parking System using ESP32, Ultrasonic Sensor & Servo Motor
     - IoT Weather Monitoring Station using ESP32
+    
+🎯 Career Goal
+     To become an Embedded Systems Engineer.
+
+Connect with me
+     Linkedin:  https://www.linkedin.com/in/sathiyajothi-kartheeswaran-0a19142a3
 
