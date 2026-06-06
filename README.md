@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi,I'm Sathiyajothi Kartheeswaran👋
 
-<!--
-**sathiyakartheeswaran/SathiyaKartheeswaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.E Electronics and Communication Engineering Student
 
-Here are some ideas to get you started:
+💡 Passionate about Embedded Systems and IoT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Skills
+    - C Programming
+    - Embedded C
+    - Arduino
+    - ESP32
+    - IoT
+    - Proteus
+    - Wokwi
+    
+✈️ Projects
+    - Advanced Traffic Light Simulation using Arduino UNO
+    - Password Based Door Lock System using Arduino
+    - Smart Blind Stick for Visually Impaired using Arduino
+    - Smart Parking System using ESP32, Ultrasonic Sensor & Servo Motor
+    - IoT Weather Monitoring Station using ESP32
+
