@@ -14,11 +14,11 @@
     - Wokwi
     
 ✈️ Projects
-    - Advanced Traffic Light Simulation using Arduino UNO
-    - Password Based Door Lock System using Arduino
-    - Smart Blind Stick for Visually Impaired using Arduino
-    - Smart Parking System using ESP32, Ultrasonic Sensor & Servo Motor
-    - IoT Weather Monitoring Station using ESP32
+    -🚦 Advanced Traffic Light Simulation using Arduino UNO.
+    -🔐 Password Based Door Lock System using Arduino.
+    -🩼 Smart Blind Stick for Visually Impaired using Arduino.
+    -🚗 Smart Parking System using ESP32, Ultrasonic Sensor & Servo Motor.
+    -🌦️ IoT Weather Monitoring Station using ESP32.
     
 🎯 Career Goal
      To become an Embedded Systems Engineer.
